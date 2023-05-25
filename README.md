@@ -13,4 +13,4 @@
 
 <br>
 
-[![Most used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaosantoss12)](https://github.com/joaosantoss12/github-readme-stats)
+[![joaosantoss12 most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=joaosantoss12&hide=html,scss,css,&theme=maroongold&show_icons=true)](https://github.com/joaosantoss12)
