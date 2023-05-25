@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm João Santos</h1>
-<h3 align="center">I'm currently taking a Computer Science bachelor degree at Coimbra Institute of Engineering [Portugal]!</h3>
+<h3 align="left">I'm currently taking a Computer Science bachelor degree at Coimbra Institute of Engineering [Portugal]!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
