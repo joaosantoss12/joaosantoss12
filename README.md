@@ -13,4 +13,4 @@
 
 <br>
 
-<p align="center"[![joaosantoss12 most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=joaosantoss12&langs_count=6&layout=compact&hide=html,scss,css,&theme=maroongold&show_icons=true)](https://github.com/joaosantoss12)</p>
+<p align="center">[![joaosantoss12 most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=joaosantoss12&langs_count=6&layout=compact&hide=html,scss,css,&theme=maroongold&show_icons=true)](https://github.com/joaosantoss12)</p>
