@@ -13,4 +13,5 @@
 
 <br>
 
-<p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?joaosantoss12" frameborder="0"></iframe><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosantoss12&show_icons=true&locale=en&theme=maroongold&layout=compact" alt="joaosantoss12" /></p>
+<p><img align="left" src="https://ionicabizau.github.io/github-profile-languages/api.html?joaosantoss12"alt="joaosantoss12" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosantoss12&show_icons=true&locale=en&theme=maroongold&layout=compact" alt="joaosantoss12" /></p>
