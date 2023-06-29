@@ -13,4 +13,4 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats-1qudo6mm0-joaosantoss12.vercel.app/api/top-langs?username=joaosantoss12&show_icons=true&theme=maroongold&hide=html,css&langs_count=7&locale=en&layout=compact" alt="joaosantoss12" /></p>
+<p align="center"><img src="https://github-readme-stats-sigma-flame-53.vercel.app/api/top-langs?username=joaosantoss12&show_icons=true&theme=maroongold&hide=html,css&langs_count=7&locale=en&layout=compact" alt="joaosantoss12" /></p>
