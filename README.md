@@ -13,4 +13,4 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaosantoss12&show_icons=true&theme=vision-friendly-dark&hide=html,css&locale=en&layout=compact" alt="joaosantoss12" /></p>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaosantoss12&layout=compact" alt="joaosantoss12" /></p>
