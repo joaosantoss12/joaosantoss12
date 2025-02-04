@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://instagram.com/joao_s.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao_s.12" height="30" width="40" /></a>
 <a href="https://twitter.com/nadapaveraki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nadapaveraki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joão-santos-347715202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-santos-347715202" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joão-santos-347715202/?msgOverlay=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-santos-347715202" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
